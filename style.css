@@ -1,0 +1,10 @@
+#clockDisplay{
+background-color: rgb(74, 182, 224);
+color:  greenyellow;
+padding: 20px;
+text-align: center;
+font-style: italic;
+font-size: 100PX;
+justify-content: space-between;
+border-radius: 50px;
+}

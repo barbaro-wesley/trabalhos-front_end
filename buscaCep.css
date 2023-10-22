@@ -1,0 +1,25 @@
+#showCepInfo{
+    border: 25px;
+    color: blueviolet;
+    background-color: rgb(167, 224, 210);
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#frmCepSearch {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+}
+ #cepSearch {
+       width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        margin-top: 10px;
+}
+ 
